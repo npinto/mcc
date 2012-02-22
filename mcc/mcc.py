@@ -55,6 +55,10 @@ Backlog:
 """
 
 
+# Authors: Nicolas Pinto <pinto@alum.mit.edu>
+#
+# License: BSD 3-clause
+
 import numpy as np
 from numpy import linalg
 from itertools import izip
